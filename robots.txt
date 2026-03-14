@@ -6,5 +6,5 @@ Allow: sitemap.html
 Disallow: /admin/
 Disallow: /Login/
 
-Sitemap: https://digital-marketer-dubai.github.io/Site/sitemap.xml
+Sitemap: https://https://digital-marketer-dubai.github.io/Site/sitemap.xml
   
